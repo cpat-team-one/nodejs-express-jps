@@ -1,4 +1,4 @@
-require('appmetrics-dash').attach();
+require('appmetrics-dash').attach(); 
 
 const appName = require('./../package').name;
 const http = require('http');
